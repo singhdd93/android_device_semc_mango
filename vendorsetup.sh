@@ -15,3 +15,4 @@
 #
 
 add_lunch_combo cm_mango-eng
+add_lunch_combo cm_mango-userdebug
